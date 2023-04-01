@@ -1,4 +1,4 @@
-# 《GCC 运行库例外条款》非正式中文翻译页
+# 《GCC 运行时库例外条款》非正式中文翻译页
 
 This is an unofficial translation of the GCC Runtime Library Exception into Simplified Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documentation that uses the GCC RLE—only the original English text of the GCC RLE does that. However, we hope that this translation will help Simplified Chinese speakers understand the GCC RLE better. 
 
