@@ -17,8 +17,8 @@ GitHub 存储库链接：[narukeu/GCC_RLE_3.1_ZH_CN (github.com)](https://github
 - HTML 版本：[HTML](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.html)
 - PDF 版本：[PDF](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.pdf)
 - MarkDown 版本：[MarkDown](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.md)
-- DOCX 版本：[OpenDocument](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.docx)
-- RTF 版本：[OpenDocument](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.rtf)
+- DOCX 版本：[DOCX](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.docx)
+- RTF 版本：[RTF](https://github.com/narukeu/GCC_RLE_3.1_ZH_CN/raw/main/GCC_RLE_3.1_ZH_CN.rtf)
 
 
 
