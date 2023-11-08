@@ -22,4 +22,4 @@ GitHub 存储库链接：[narukeu/GCC_RLE_3.1_ZH_CN (github.com)](https://github
 
 
 
-欢迎做出斧正。
+欢迎斧正。
